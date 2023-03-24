@@ -1,0 +1,31 @@
+.dark {
+  margin: 70px 50px;
+}
+
+.branding {
+  width: 240px;
+}
+
+mat-toolbar-row {
+  background-color: #454545;
+}
+
+#back-btn {
+  cursor: pointer;
+  background: no-repeat;
+  float: right;
+  border: none;
+  color: #ffffff;
+  position: absolute;
+  right: 100px;
+  text-transform: uppercase;
+}
+
+.bg-img {
+  background-image: url("../../assets/locationPage.png");
+  min-height: 100%;
+  height: auto;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+}
