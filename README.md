@@ -10,7 +10,6 @@ This Project aim's to develop an Quiz Application where the user can Login to th
 | Angular | 15.0.6 |
 | ------ | ------- |
 | Angular Material | 15.0.3 |
-| ------ | ------- |
 | JSON Server | --|
 
 
