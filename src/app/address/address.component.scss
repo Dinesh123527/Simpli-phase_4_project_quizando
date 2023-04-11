@@ -21,6 +21,10 @@ mat-toolbar-row {
   text-transform: uppercase;
 }
 
+#back-btn:hover {
+  color: #cd5c5c;
+}
+
 .bg-img {
   background-image: url("../../assets/locationPage.png");
   min-height: 100%;

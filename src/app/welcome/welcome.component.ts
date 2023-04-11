@@ -29,6 +29,7 @@ export class WelcomeComponent implements OnInit {
         'Please enter name to proceed'
       );
     } else {
+      this.notifyService.showSuccess('Success', 'Quiz App');
       this.router.navigate(['/question']);
     }
   }
